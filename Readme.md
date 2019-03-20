@@ -19,7 +19,7 @@ I have the objective to ascend in the area learning everything with everyone.
 : **Análise e desenvolivmento de sistemas**_(System analysis and development)_; QI Gravataí
 
 -------------------------------------------
-
+&nbsp;
 #### Professional experience
 
 **Renting assistant**
@@ -40,11 +40,13 @@ Develop and maintain multiple projects, with activities ranging between making t
  - And other parcial projects.
 
 --------------------
+&nbsp;
+&nbsp;
 
 #### Linguagens e conhecimentos de programação
 
  **Javascript** \
-  My most enjoyable language because of its flexibility, portability and popularity, knowing some of its frameworks and tools like **Jquery, React, Node, NodeRed**.
+     My most enjoyable language because of its flexibility, portability and popularity, knowing some of its frameworks and tools like **Jquery, React, Node, NodeRed**.
 
 **PHP** \
   My first backend language, enhanced by its popular framework **Laravel**.
