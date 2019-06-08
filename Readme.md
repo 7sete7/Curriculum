@@ -8,7 +8,7 @@ leonardogviva@gmail.com
 
 ------------------- ----------------------------
 #### About me
-I am a coding lover, fast-learning, news-hungry, geek-like 17 years old Brazilian.
+I am a coding lover, fast-learning, news-hungry, geek-like 18 years old Brazilian.
 I have the objective to ascend in the area learning everything with everyone.
 
 -----------------------------------------------
@@ -16,7 +16,7 @@ I have the objective to ascend in the area learning everything with everyone.
 
 **2017- \~**
 
-: **Análise e desenvolivmento de sistemas**_(System analysis and development)_; QI Gravataí
+**Análise e desenvolivmento de sistemas**_(System analysis and development)_; QI Gravataí
 
 -------------------------------------------
 &nbsp;
@@ -36,14 +36,14 @@ As well as:
 
 Develop and maintain multiple projects, with activities ranging between making the hole front-end as well as integrating with the main CRM(Konecty). Bug fixing in existing projects. Metadata customization via MongoDB. External integration/automation via NodeRED. May list some projects:
  - A blog and its post editor (Blogger-like) from scratch;
- - A real state app made with AMP;
+ - A real state web app made with AMP;
  - And other parcial projects.
 
 --------------------
 &nbsp;
 &nbsp;
 
-#### Linguagens e conhecimentos de programação
+#### Programing languages and knowledge
 
  **Javascript** \
      My most enjoyable language because of its flexibility, portability and popularity, knowing some of its frameworks and tools like **Jquery, React, Node, NodeRed**.
@@ -52,7 +52,7 @@ Develop and maintain multiple projects, with activities ranging between making t
   My first backend language, enhanced by its popular framework **Laravel**.
 
 Solid knowledge in **HTML**, **CSS** and **Bootstrap**.
-Basic knowledge **Java**, **C#**, **Python** and **Unity**.
+Basic knowledge **Java**, **C#**, **Python**, **Docker** and **Unity**.
 
 My Github: [7sete7's Github](github.com/7sete7).
 
