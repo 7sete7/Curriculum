@@ -31,7 +31,7 @@ As well as:
  - Contract rescission calculations;
  - Support and technical assistance related to infrastructure.
  
-**FullStack Developer**
+**Fulstack Developer**
 *Konecty | 09/18 -- \~*
 
 Develop and maintain multiple projects, with activities ranging between making the hole front-end as well as integrating with the main CRM(Konecty). Bug fixing in existing projects. Metadata customization via MongoDB. External integration/automation via NodeRED. May list some projects:
@@ -52,10 +52,9 @@ Develop and maintain multiple projects, with activities ranging between making t
 **PHP** \
   My first backend language, enhanced by its popular framework **Laravel**.
 
-Solid knowledge in **HTML**, **CSS**, **Bootstrap**, **MaterialUI**.
-Basic knowledge **Java**, **C#**, **Python**, **Docker**, **Unity** and **CI Tools**.
+Solid knowledge in **HTML**, **CSS**, **Bootstrap**, **MaterialUI**, **Java**, **C#**, **Python**, **Docker**, **Unity** and **CI Tools**.
 
-My Github: [7sete7's Github](github.com/7sete7).
+My Github: [https://github.com/7sete7](https://github.com/7sete7).
 
 ----------------------------------------
 Human languages: 
